@@ -1,11 +1,7 @@
 # mici-game
 
-Jakob, če bos to gledal lahko pogledaš program, če imaš kakšno idejo kako lahko miš premaknem na naključne koordinate.
+Premikaš se s puščicami gor, dol, levo un desno.
+V prbl. 30 sekundah moraš doseči 10 točk tj. 10-krat uloviti miš.
 
-Igra naj bi:
--ti si mačka - Mici, ki lovi miš
--premikaš se z puščicami - gor, dol, levo, desno
--če se dotakneš miši dobiš točko
--imaš omejen čas
-
-Hvala.
+Upam, da vam je igra všeč,
+Cane7
